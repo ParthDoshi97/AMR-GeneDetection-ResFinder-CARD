@@ -1,1 +1,1 @@
-# AMR-GeneDetection-ResFinder-CARD
+# Antmicrobial gene predication using Resfinder and CARD Database
