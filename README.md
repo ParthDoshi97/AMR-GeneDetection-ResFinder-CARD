@@ -9,8 +9,10 @@ Before you begin, ensure you have the following tools installed:
 ## Installation
 To set up the tool for use, follow these steps given on there github page:
 - Resfinder - https://github.com/cadms/resfinder.git
-- CARD -
-- Python 
+- CARD - https://github.com/arpcard/rgi.git
+- Python
+### Note  
+
 
 ```bash
 git clone https://github.com/ParthDoshi97/AMR-GeneDetection-ResFinder-CARD.git
