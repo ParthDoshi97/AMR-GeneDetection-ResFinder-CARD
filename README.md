@@ -7,12 +7,14 @@ Before you begin, ensure you have the following tools installed:
 - CARD
 
 ## Installation
-To set up the tool for use, follow these steps given on github page:
+To set up the tool for use, follow these steps given on there github page:
 - Resfinder - https://github.com/cadms/resfinder.git
-- CARD - 
+- CARD -
+- Python 
 
 ```bash
-git clone https://github.com/yourusername/antimicrobial-genepred.git
+git clone https://github.com/ParthDoshi97/AMR-GeneDetection-ResFinder-CARD.git
 cd
 ```
 
+## Reference 
