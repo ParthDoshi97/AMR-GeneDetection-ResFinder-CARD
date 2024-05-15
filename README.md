@@ -10,8 +10,8 @@ This repository hosts powerful scripts designed to predict antimicrobial resista
 
 Before you begin, make sure you have installed:
 
-- [Resfinder](https://github.com/path/to/resfinder)
-- [CARD](https://github.com/path/to/card)
+- [Resfinder](https://github.com/cadms/resfinder)
+- [CARD](https://github.com/arpcard/rgi)
 - Python 3.8 or higher
 
 ## Installation
@@ -23,8 +23,8 @@ Follow these steps to set up the tools for your use:
    cd AMR-GeneDetection-ResFinder-CARD
    ```
 2. Visit the Resfinder and CARD GitHub pages for specific installation instructions:
-   - Resfinder - (https://github.com/path/to/resfinder)
-   - CARD - (https://github.com/path/to/card)
+   - Resfinder
+   - CARD -
    
 
 ## Configuration
